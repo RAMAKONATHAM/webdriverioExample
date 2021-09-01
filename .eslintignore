@@ -1,0 +1,5 @@
+package-lock.json
+wdio.conf.js
+wdio.base.conf.js
+reports/
+node_modules/
