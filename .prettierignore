@@ -1,0 +1,4 @@
+package-lock.json
+wdio.conf.js
+reports/
+node_modules/
