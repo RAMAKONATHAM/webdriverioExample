@@ -50,7 +50,7 @@ Add the steps on how to start your project using the **wdio.conf.js**
 **suites.config.js** :
 
 - In this file you can add your suites.
-  e.g- Registration: ['./amex/test/specs/foldername/testcasename.js'],
+  e.g-Login: ['./amex/test/specs/foldername/testcasename.js'],
 
 **package.json** :
 
